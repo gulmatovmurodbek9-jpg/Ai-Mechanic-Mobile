@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+.idea/
+.vscode/
+
+# Expo / React Native logs and caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-env.d.ts
+
+# Native build outputs
+android/.gradle/
+android/app/build/
+android/build/
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
